@@ -1,0 +1,6 @@
+{
+  "name": "@tool-mall/reactive-function",
+  "version": "0.0.0",
+  "license": "MIT",
+  "exports": "./index.ts"
+}
